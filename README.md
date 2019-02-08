@@ -9,7 +9,7 @@ You can obverse the algorithm in the following files:
 /src/olsr/model/olsr-routing-protocol.h
 
 Step 1: Clone this repo:
-git clone https://github.com/imtiaztee/ns-3.27-adaptive-hello-for-fanet
+git clone https://github.com/imtiaztee/Adaptive-Hello-Interval-for-FANET
 
 Step 2: Configure and build the cloned repo:
 ./waf configure
