@@ -15,8 +15,8 @@ Step 2: Configure and build the cloned repo:
 ./waf configure
 ./waf
 
-Step 3: put your scenario in the scratch and run, 
-        you can test the algorithm by implementing AODV or OLSR routing algorithms into your scenario.
+Step 3: Put your scenario in the scratch and run, 
+        You can test the algorithm by implementing AODV or OLSR routing protocols into your scenario.
 
 ********************************************************
 
