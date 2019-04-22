@@ -9,7 +9,7 @@ You can obverse the algorithm in the following files:
 /src/olsr/model/olsr-routing-protocol.h
 
 Step 1: Clone this repo:
-git clone https://github.com/imtiaztee/Adaptive-Hello-Interval-for-FANETs
+git clone https://github.com/imtiaztee/EE-Hello-Adaptive-Hello-Interval-for-FANETs
 
 Step 2: Configure and build the cloned repo:
 ./waf configure
