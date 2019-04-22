@@ -1,7 +1,7 @@
-This repository has been created for experimenting the algorithm proposed in 
+This repository has been created for experimenting the EE-Hello scheme proposed in 
 "Adaptive Hello Interval in FANET Routing Protocols for Green UAVs"
 
-The algorithm has been implemented on the AODV and OLSR routing protocols.
+The EE-Hello scheme has been implemented on the AODV and OLSR routing protocols.
 You can obverse the algorithm in the following files:
 /src/aodv/model/aodv-routing-protocol.cc
 /src/aodv/model/aodv-routing-protocol.h
@@ -16,7 +16,7 @@ Step 2: Configure and build the cloned repo:
 ./waf
 
 Step 3: Put your scenario in the scratch and run, 
-        You can test the algorithm by implementing AODV or OLSR routing protocols into your scenario.
+        You can test the EE-Hello scheme by implementing AODV or OLSR routing protocols into your scenario.
 
 ********************************************************
 
