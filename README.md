@@ -21,8 +21,8 @@ Step 3: Put your scenario in the scratch and run,
 
 ********************************************************
 
-Thanks.
-Imtiaz Mahmud.
+Thanks and regards. <br />
+Dr. Imtiaz Mahmud.
 
 ********************************************************
 For any inquiry, please contact at imtiaz.tee@gmail.com.
